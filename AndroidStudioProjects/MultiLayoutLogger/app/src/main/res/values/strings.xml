@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiLayoutLogger</string>
+    <string name="linear_layout">Open Linear Layout</string>
+    <string name="relative_layout">Open Relative Layout</string>
+</resources>
